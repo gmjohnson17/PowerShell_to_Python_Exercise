@@ -2,11 +2,12 @@
 ## Purpose
 This Jupyter notebook was developed for Undergraduate Cyber Warfare (UCWT) students to bridge the gap between basic programming skills learned in the 17X course and Python syntax used in the 17S course. 
 
-Understanding of this code and completion of these exercise does not constitute sufficient preparation for the completion of the 17S course.
+Understanding this code and completion of these exercise does not constitute sufficient preparation for the completion of the 17S course or cover all materials in the 17S or CWO Python course(s).
 
 ## Contributors
 Author: Graham Johnson
-Reviewers: Troy Drabek
+
+Reviewer(s): Troy Drabek
 
 I am not accepting contribution to this code at this time. 
 
