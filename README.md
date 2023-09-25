@@ -1,6 +1,6 @@
 # PowerShell_to_Python_Exercise
 ## Purpose
-This Jupyter notebook was developed for Undergraduate Cyber Warfare (UCWT) students to bridge the gap between basic programming skills learned in the 17X course and Python syntax used in the 17S course. 
+This Jupyter notebook was developed for Undergraduate Cyber Warfare (UCWT) students to bridge the gap between basic programming skills learned in the 17X PowerShell course and thier equivalent syntax in Python. 
 
 Understanding this code and completion of these exercise does not constitute sufficient preparation for the completion of the 17S course or cover all materials in the 17S or CWO Python course(s).
 
@@ -9,7 +9,7 @@ Author: Graham Johnson
 
 Reviewer(s): Troy Drabek
 
-I am not accepting contribution to this code at this time. 
+I am not accepting any contributions at this time. 
 
 ## License 
 Copyright 2023 Graham Johnson
