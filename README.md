@@ -39,7 +39,7 @@ setx PATH "%PATH%;C:\%%\Python\Python311\"
 
 ## Online Setup
 
-### Google Colab
+### Option 1 - Google Colab
 
 1. Navigate to Google Colab: https://colab.research.google.com/
 
@@ -48,6 +48,16 @@ setx PATH "%PATH%;C:\%%\Python\Python311\"
 ![image](https://github.com/gmjohnson17/PowerShell_to_Python_Exercise/assets/146036376/904f66af-751d-4d95-9883-1a253ae48338)
 
 3. The notebook should now be open
+
+### Option 2 - VSCode Online
+
+1. Navigate to: https://vscode.dev/
+
+2. Open this repository
+
+3. Install the Jupyter Notebook Extension
+
+4. Get to codeing
 
 ## Contributors
 Author: Graham Johnson
