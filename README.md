@@ -8,18 +8,26 @@ This Jupyter notebook was developed to help students translate basic PowerShell 
 
 2. Open PowerShell (or the command line terminal of your choice)
 
-3. Download or clone this repository to a new folder
+3. Download or clone this repository to a new folder (if you have never used git, there is also an option to download all files in a repository as a .zip file):
 
-4. Navigate to the respository folder in PowerShell
+![image](https://github.com/gmjohnson17/PowerShell_to_Python_Exercise/assets/146036376/39fcf1e4-6caa-436d-af4c-dc8571d8762c)
 
-5. Open Jupyter Lab:
+4. Unzip the downloaded (if required)
+
+5. Navigate to the respository folder in PowerShell
+
+6. Open Jupyter Lab:
 ```
 jupyter lab
 ```
 
-6. You should be able to open the notebook (.ipynb file). 
+7. You should be able to open the notebook (.ipynb file). Note: Actual contents/view may vary. 
 
 ![image](https://github.com/gmjohnson17/PowerShell-Lab/assets/146036376/fdbc7cc9-2b06-4663-b160-58129fdd0c3f)
+
+8. Select the Jupyter Notebook file (.ipynb extension)
+
+9. Get to coding
 
 ### Troubleshooting Jupyter Notebook Setup
 
@@ -40,17 +48,17 @@ Note: the %% represents the path to the Python folder. It may vary based on your
 
 ![image](https://github.com/gmjohnson17/PowerShell_to_Python_Exercise/assets/146036376/904f66af-751d-4d95-9883-1a253ae48338)
 
-3. The notebook should now be open
+3. Get to coding
 
 ### Option 2 - VSCode Online
 
 1. Navigate to: https://vscode.dev/
 
-2. Open this repository
+2. Open this repository using the repository link: https://github.com/gmjohnson17/PowerShell_to_Python_Exercise/
 
 3. Install the Jupyter Notebook Extension
 
-4. Get to codeing
+4. Get to coding
 
 ## Contributors
 Author: Graham Johnson
